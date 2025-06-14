@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sendrosa.github.io/new_web_page/sitemap.xml
+Sitemap: https://sendrosa.github.io/sitemap.xml
